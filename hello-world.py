@@ -1,4 +1,3 @@
-#this program will write
-#Hello World!
+#this program will write hello world to the screen
 
 print("hello world")
